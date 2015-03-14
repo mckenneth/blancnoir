@@ -22,9 +22,9 @@
 
         <nav>
             <ul>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="page.php">About</a></li>
+                <li><a href="archive.php">Projects</a></li>
+                <li><a href="page.php">Contact</a></li>
             </ul>
         </nav>
     </header>
