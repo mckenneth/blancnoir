@@ -1,16 +1,10 @@
 <?php include('header.php') ?>
+<main class="main main--page">	
+    <section class="content">  
+        <?php include('content-page.php') ?>
+    </section>
 
-<main>    
-    <article id="{pageid}">
-        <header>
-            <h2>Article Title</h2>
-        </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta non perspiciatis odit neque, impedit cum. Nulla reprehenderit quam incidunt, asperiores ex recusandae a consequuntur ducimus error facere, officia, quasi consequatur.</p>
-
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta non perspiciatis odit neque, impedit cum. Nulla reprehenderit quam incidunt, asperiores ex recusandae a consequuntur ducimus error facere, officia, quasi consequatur.</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta non perspiciatis odit neque, impedit cum. Nulla reprehenderit quam incidunt, asperiores ex recusandae a consequuntur ducimus error facere, officia, quasi consequatur.</p>
-    </article>
+    <aside class="sidebar">
+    </aside>
 </main>
-
 <?php include('footer.php') ?>

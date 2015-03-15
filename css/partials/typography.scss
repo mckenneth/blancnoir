@@ -7,17 +7,31 @@ html {
 }
 
 body {
-    font: 1.6rem/1.4em 'Futura';
+    font: 1.4rem/1.4em $font__primary;
+    letter-spacing: 0.01em;
+    color: #444;
 }
 
 h1, h2, h3, h4, h5, h6 {
-
+    font-family: $font__secondary;
+    margin: 0;
+    font-weight: normal;
 }
 
-p {
-
+.h1 {
+    font: 2.4rem/1.4em $font__secondary;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
 }
 
-i {
-
+.h2 {
+    font: 2rem/1.4em $font__secondary;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    width: 60%;
+    
+    a {
+        border: 0;
+    }
 }

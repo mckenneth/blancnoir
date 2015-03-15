@@ -16,10 +16,10 @@
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
-    <header>
-        <a href="index.php">Blanc et Noir</a>
+    <header class="header">
+        <a href="index.php" class="logo">Blanc et Noir</a>
 
-        <nav>
+        <nav class="nav">
             <ul>
                 <li><a href="page.php">About</a></li>
                 <li><a href="archive.php">Projects</a></li>

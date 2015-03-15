@@ -1,0 +1,33 @@
+.main, .footer {
+	width: 100%;
+	padding: 4rem 2rem;
+}
+
+.header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.main {
+	margin: 6rem auto;
+	min-width: 320px;
+	min-height: 100vh;
+	overflow: hidden;
+
+	.content {
+		max-width: 480px;
+	}
+}
+.main--single,
+.main--page {
+	.content {
+		max-width: 800px;
+	}
+}
+
+.post {
+	clear: both;
+	margin-bottom: 8rem;
+}

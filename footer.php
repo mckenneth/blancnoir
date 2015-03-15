@@ -1,6 +1,6 @@
 
-        <footer>
-            <p>&copy; 2015 - BlancNoir</p>
+        <footer class="footer">
+            <section class="copyright">&copy; All Rights Reserved BlancNoir 2015</section>
         </footer>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
