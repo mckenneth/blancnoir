@@ -1,3 +1,3 @@
 # Blanc et Noir
 
-Minimal Theme best suited for Editorial and Fashion Blog.
+Minimal and Responsive theme best suited for Editorial and Fashion related websites.
