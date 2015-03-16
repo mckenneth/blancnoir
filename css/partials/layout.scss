@@ -1,8 +1,3 @@
-.main, .footer {
-	width: 100%;
-	padding: 4rem 2rem;
-}
-
 .header {
 	width: 100%;
 	position: fixed;
@@ -11,30 +6,51 @@
 }
 
 .main {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.footer {
+	width: 100%;
+	padding: 4rem 2rem;
+}
+
+.main {
 	margin: 6rem auto;
 	min-height: 100vh;
 	overflow: hidden;
 
 	.content {
-		max-width: 480px;
+		padding: 0;
 	}
 }
-.main--single,
-.main--page {
+
+.main--single {
 	.content {
 		max-width: 800px;
+		padding: 0 1rem;
+	}
+}
+
+.main--page {
+	.content {
+		max-width: 480px;
+		padding: 0 1rem;
 	}
 }
 
 .post {
-	clear: both;
 	margin-bottom: 8rem;
+	width: 240px;
+	float: left;
+	padding: 0 1rem;
 }
 
 .column {
 	@include clear;
 	margin: 2rem 0;
 }
+
 .column--2 {
 	@extend .column;
 	@include pfx(columns, 2);
