@@ -18,6 +18,15 @@
     <body>
     <header class="header">
         <a href="index.php" class="logo">Blanc et Noir</a>
+        
+        <section class="filter">
+            <ul>
+                <li><a data-filter="*">All</a></li>
+                <li><a data-filter=".style">Style</a></li>
+                <li><a data-filter=".events">Events</a></li>
+                <li><a data-filter=".fashion">Fashion</a></li>
+            </ul>
+        </section>
 
         <nav class="nav">
             <ul>

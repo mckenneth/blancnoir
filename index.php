@@ -1,10 +1,10 @@
 <?php include('header.php') ?>
 <main class="main" role="main">	
-	<section class="content">
+	<section class="content content--isotope">
    	<!-- ?php $x = 1; while($x <= 10) { ?
     	?php include('content.php') ?
     ?php  $x++; } ? -->
-		<article class="post" id="{pageid}">
+		<article class="post events style" id="{pageid}">
 			<header>
 				<h2 class="h2"><a href="single.php">from beyonce to 'bruno,' the most surprising catwalk crashes</a></h2>
 			</header>
@@ -12,7 +12,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post events style" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">why glitter won’t die — dissecting an enduring trend</a></h2>
 			</header>
@@ -20,7 +20,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post events" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">women wear the pants at stella mccartney fall/winter 15</a></h2>
 			</header>
@@ -28,7 +28,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">exclusive first look: palace spring/summer 15</a></h2>
 			</header>
@@ -36,7 +36,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">Deconstructing beauty</a></h2>
 			</header>
@@ -51,7 +51,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">why glitter won’t die — dissecting an enduring trend</a></h2>
 			</header>
@@ -59,7 +59,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post style" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">women wear the pants at stella mccartney fall/winter 15</a></h2>
 			</header>
@@ -67,7 +67,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post style fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">exclusive first look: palace spring/summer 15</a></h2>
 			</header>
@@ -75,7 +75,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post style" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">Deconstructing beauty</a></h2>
 			</header>
@@ -90,7 +90,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post style" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">why glitter won’t die — dissecting an enduring trend</a></h2>
 			</header>
@@ -98,7 +98,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post events fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">women wear the pants at stella mccartney fall/winter 15</a></h2>
 			</header>
@@ -106,7 +106,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post style" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">exclusive first look: palace spring/summer 15</a></h2>
 			</header>
@@ -114,7 +114,7 @@
 			<a class="button--readmore" href="single.php">Read More</a>
 		</article>
 
-		<article class="post" id="{pageid}">
+		<article class="post fashion" id="{pageid}">
 			<header>
 				<h2 class="h2 post__title"><a href="single.php">Deconstructing beauty</a></h2>
 			</header>
