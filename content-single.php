@@ -1,10 +1,10 @@
 <article id="{pageid}">
         <header class="post__header">
-            <h2 class="h1 post__title">IN PRAISE OF SLOWNESS</h2>
+            <h2 class="h1 post__title">Deconstructed Beauty</h2>
             <h4 class="h4">Word by <a href="#">Angelica Smith</a> &amp; Photography by <a href="#">John Hayne</a></h4>
         </header>
 
-         <p class="lead">The dream of limitless leisure persisted through the 20th century. Dazzled by the magical promise of technology, the man in the street dreamed of a life spent lounging by the pool
+        <p class="lead">The dream of limitless leisure persisted through the 20th century. Dazzled by the magical promise of technology, the man in the street dreamed of a life spent lounging by the pool
         </p>
 
         <div class="column--2">
