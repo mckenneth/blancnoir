@@ -14,8 +14,13 @@
 
         <p>The dream of limitless leisure persisted through the 20th century. Dazzled by the magical promise of technology, the man in the street dreamed of a life spent lounging by the pool, waited on by robots that not only mixed a mean martini but also kept the economy ticking over nicely. In 1956, Richard Nixon told Americans to prepare for a four-day workweek in the “not too distant future.” A decade later, a US Senate subcommittee heard that by 2000 Americans would be working as little as 14 hours per week. Even in the 1980s, some predicted that robotics and computers would give us all more free time than we would know what to do with.</p>
         </div>
-     
-        <img src="img/post/DSCF6411.jpg">
+        
+        <ul class="gallery">
+            <li><img src="img/post/DSCF6411.jpg"></li>
+            <li><img src="img/post/DSCF6444.jpg"></li>
+            <li><img src="img/post/DSCF6462.jpg"></li>
+            <li><img src="img/post/DSCF6470.jpg"></li>
+        </ul>
     
         <div class="column--2">
         <p>There was a time, not so long ago, when mankind looked forward to a new Age of Leisure. Machines promised to liberate everyone from the drudgery of work. Sure, we might have put in the odd shift at the office or factory, monitoring screens, twiddling dials, signing invoices, but the rest of the day would be spent hanging out and having fun. With so much free time on our hands, words like “hurry” and “haste” would eventually fall out of the language.</p>

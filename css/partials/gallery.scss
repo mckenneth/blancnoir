@@ -1,0 +1,21 @@
+ul.gallery {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.bx-wrapper img {
+	max-width: 100%;
+	display: block;
+	height: 540px;
+	margin: 0 auto;
+}
+
+.bx-wrapper .bx-viewport {
+	-moz-box-shadow: 0 0 0px #ccc;
+	-webkit-box-shadow: 0 0 0px #ccc;
+	box-shadow: 0 0 0px #ccc;
+	border:  0px solid #fff;
+	background: transparent;
+	overflow: visible!important;
+}
