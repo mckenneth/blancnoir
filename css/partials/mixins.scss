@@ -4,3 +4,14 @@
       -ms-#{$property}: #{$value};
          #{$property}: #{$value};
 }
+
+@mixin clear {
+	&:before, &:after {
+		content: '';
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}

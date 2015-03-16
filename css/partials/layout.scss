@@ -12,7 +12,6 @@
 
 .main {
 	margin: 6rem auto;
-	min-width: 320px;
 	min-height: 100vh;
 	overflow: hidden;
 
@@ -30,4 +29,30 @@
 .post {
 	clear: both;
 	margin-bottom: 8rem;
+}
+
+.column {
+	@include clear;
+	margin: 2rem 0;
+}
+.column--2 {
+	@extend .column;
+	@include pfx(columns, 2);
+	@media (max-width: 480px) {
+		@include pfx(columns, 1)
+	}
+}
+
+.column--3 {
+	@extend .column;
+	@include pfx(columns, 3);
+}
+
+.align-center {
+	text-align: center;
+	padding: 0 10%;
+}
+
+.align-right {
+	text-align: right;
 }
